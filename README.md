@@ -22,6 +22,7 @@ Despite achieving impressive sales figures, Daakole Stores faces challenges in o
 ### DASHBOARD
 
 
+<img width="1113" height="642" alt="Daacole sales" src="https://github.com/user-attachments/assets/d6fb5db0-8655-4f60-b192-d4b3700577b5" />
 
 
 ### RESULTS/FINDINGS
